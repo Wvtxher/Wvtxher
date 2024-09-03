@@ -7,10 +7,11 @@
   <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-lavender?style=for-the-badge&logoColor=E6E6FA">
   </a>
 </div>
+
 ### Virus\Personality\~ > virus Hello.greet
 
 <div>
-  <img src="" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/happy05dz/Batch-Script-Collection/master/_images/banner.gif" width="600" height="300"/>
 </div>
 
 <!--
