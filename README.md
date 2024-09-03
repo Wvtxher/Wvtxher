@@ -28,3 +28,21 @@ I am a Full-time Student at Saint Leo University.
 - 💭 I'd love to collaborate and learn more on these topics and proper training in creating coding environments, specifically for Swift applications.
 - 📫 Ways to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-lavender?style=for-the-badge&logoColor=E6E6FA)](www.linkedin.com/in/ayana-lopez-7a048a268)
 
+---
+
+### 🦇 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VirusGl0wBee&theme=midnight-purple&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true" />
+</picture>
+
