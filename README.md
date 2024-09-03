@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/ayana-lopez-7a048a268">
   <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-lavender?style=for-the-badge&logoColor=E6E6FA">
   </a>
 </div>
