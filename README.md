@@ -36,7 +36,7 @@ I am a Full-time Student at Saint Leo University.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true&theme=midnight-purple&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -45,4 +45,6 @@ I am a Full-time Student at Saint Leo University.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=VirusGl0wBee&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirusGl0wBee&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/VirusGl0wBee/github-readme-stats)
 
