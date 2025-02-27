@@ -88,6 +88,12 @@
 
 ---
 
+<div id="header" align="center">
+  <img src="https://github.com/Wvtxher/Wvtxher/blob/main/773C4805-7BE3-4B1B-9532-4A654A916033.webp" width="100%"/>
+</div>
+
+---
+
 <p align="center">
    "𝘚𝘰𝘮𝘦𝘵𝘪𝘮𝘦𝘴, 𝘵𝘩𝘦 𝘢𝘯𝘴𝘸𝘦𝘳𝘴 𝘢𝘳𝘦𝘯’𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘭𝘪𝘨𝘩𝘵, 𝘣𝘶𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘴𝘩𝘢𝘥𝘰𝘸𝘴..."
 </p>
