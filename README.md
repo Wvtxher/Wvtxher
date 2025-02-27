@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/DarkAcademiaGif.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpiN3RmMzBrb2hyMnM2bGo4bmNzbG4xeHJhdHJwaWFhZjI1ZWZmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WjMnQiDQHbK6Y/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -84,7 +84,7 @@
 
 ### 📔 My Best Work:
 
-[![One Step Away](https://img.shields.io/badge/-One%20Step%20Away%20🚀-black?style=for-the-badge)](https://github.com/Wvtxher/Projects/Python)
+[![One Step Away](https://img.shields.io/badge/-One%20Step%20Away%20🚀-black?style=for-the-badge)]([https://github.com/Wvtxher/Projects/Python](https://github.com/Wvtxher/PythonNotes/tree/main/OneStepAway))
 
 ---
 
